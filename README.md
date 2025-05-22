@@ -20,7 +20,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,discord,postgres,github,java,linux,mysql,py,react,django,vscode,gmail,ai,visualstudio,aiscript,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,discord,postgres,github,java,linux,mysql,py,django,vscode,gmail,ai,visualstudio,aiscript,&perline=14" />
   </a>
 </p>
 
