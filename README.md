@@ -37,11 +37,17 @@
 
  </div>
  
- ### 📈 Activity Graph
+
  
  
 
 ### 📊 Most Used Language
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,mysql,py&perline=14" />
+  </a>
+</p>
 
 
   
