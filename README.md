@@ -16,7 +16,9 @@
 
 - 👨‍💻 As an Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 🌱 I’m diving deeper into Cybersecurity and artificial intelligence
-- 
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am ready to help
+- 📫 Reach out to me at: julionacif433@gmail.com
 
 <!--tech stack icons-->
 <p align="center">
@@ -29,6 +31,8 @@
  </div>
  
  ### ⏱ Streak Stats
+
+ ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=<julio569>&theme=dark-blue&stroke=ffffff)
  
 
  </div>
