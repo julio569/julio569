@@ -18,12 +18,13 @@
 - 🌱 I’m diving deeper into Cybersecurity and artificial intelligence
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am ready to help
+- ⚡ Fun fact: I love playing video games and going to the gym. 
 - 📫 Reach out to me at: julionacif433@gmail.com
 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,discord,postgres,github,java,mysql,py,django,vscode,gmail,ai,visualstudio,aiscript,microsoft&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,discord,postgres,github,java,mysql,py,react,vscode,gmail,ai,visualstudio,aiscript,microsoft&perline=14" />
   </a>
 </p>
 
