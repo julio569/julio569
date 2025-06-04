@@ -15,7 +15,8 @@
 ---
 
 - 👨‍💻 As an Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 🌱 I’m diving deeper into _
+- 🌱 I’m diving deeper into Cybersecurity and artificial intelligence
+- 
 
 <!--tech stack icons-->
 <p align="center">
