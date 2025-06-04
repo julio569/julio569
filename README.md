@@ -13,6 +13,17 @@
 
 
 ---
+ABOUT ME😊
+
+🚀"Hello! I'm Julio José Nacif Sottimano, a | Software Engineer |.
+I’m a highly proactive person who loves being involved in projects, working in teams, helping wherever I can, and being a good leader who supports colleagues and friends in their growth.
+
+Since the beginning, I’ve been deeply passionate about technology and understanding how everything works behind the scenes. Throughout my journey, I’ve realized that:
+
+'A great programmer doesn’t just write code—they master the art of turning challenges into solutions.'
+I’m always open to learning new tools and technologies."
+
+---
 
 - 👨‍💻 As an Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 🌱 I’m diving deeper into Cybersecurity and artificial intelligence
