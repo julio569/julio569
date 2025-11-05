@@ -35,7 +35,7 @@ I’m always open to learning new tools and technologies."
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,discord,postgres,github,java,py,react,unrealengine,vscode,gmail,visualstudio,t&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,discord,postgres,github,java,py,c++,unrealengine,vscode,gmail,visualstudio,t&perline=14" />
   </a>
 </p>
 
