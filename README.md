@@ -35,7 +35,7 @@ I’m always open to learning new tools and technologies."
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,discord,mysql,github,java,py,javascript,html,supebase,figma,unrealengine,vscode,gmail,visualstudio,t&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,discord,mysql,postgres,git,github,java,py,react,javascript,html,supebase,figma,vscode,gmail,visualstudio,t&perline=14" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@ I’m always open to learning new tools and technologies."
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,mysql,html,py&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,mysql,postgres,react,html,py&perline=14" />
   </a>
 </p>
 
