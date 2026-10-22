@@ -57,7 +57,7 @@ I’m always open to learning new tools and technologies."
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,mysql,postgres,react,html,py&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,mysql,postgres,react,html,&perline=14" />
   </a>
 </p>
 
